@@ -2,7 +2,7 @@
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Analytics
 - 💞️ I’m looking to collaborate on projects for supervised and unsupervised learning
-- 📫 How to reach me via E-Mail: nilohoffice@gmail.com
+- 📫 How to reach me via E-Mail: lalial100176@gmail.com
 
 <!---
 tech-laila/tech-laila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
